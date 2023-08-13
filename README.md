@@ -23,7 +23,7 @@ My main focus during this internship was to **strengthen Chefclub's data groundw
 
 Throughout the internship, I achieved the following milestones:
 
-1. **`YouTube Data Retrieval System`**: I designed and implemented a comprehensive YouTube data retrieval system utilizing technologies like Airflow, Kubernetes, Docker, Python, GitHub, YT Analytics API, and SQL. This system automates data collection and storage of Chefclub's YouTube channel performance. It also generates financial reports in Google Sheets and interactive reports in Looker Studio. A visual representation of the system's architecture is provided below:
+1. **`YouTube Data Retrieval System`**: I conceptualized and implemented a YouTube data retrieval system, utilizing a range of technologies such as Airflow, Kubernetes, Docker, Python, GitHub, the YouTube Analytics API, and SQL. This system automates the collection and storage of performance data from Chefclub's YouTube channels, feeding it into BigQuery and Cloud Storage. Moreover, it generates dynamic reports in Looker Studio and financial reports in Google Sheets. The architecture of the system is visually depicted below:
 <div align="center">
   <h1><img src="assets/YouTube Analytics Data Retrieval Solution.png"></h1>
   <p><i>Fig 1 : </i>YouTube Analytics Data Retrieval Solution</p>
@@ -43,7 +43,7 @@ Throughout the internship, I achieved the following milestones:
   <p><i>Fig 3 : </i> Model Training Deployment  Solution</p>
 </div>
 
-Additionally, the sequence diagram provides an overview of the model inference via Slack:
+Additionally, an overview of the model inference process via Slack is explained in the sequence diagram below:
 
 <div align="center">
   <h1><img src="assets/Sequence Diagram  Model Inference via Slack.png"></h1>
