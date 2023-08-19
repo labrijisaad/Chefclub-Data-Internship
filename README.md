@@ -59,21 +59,20 @@ For this internship, we followed an agile project management approach, specifica
 
 ## Tools and Technologies 🛠️
 
-During the internship, I used various tools and technologies, including:
+During the internship, I utilized a variety of tools and technologies, with the main ones being:
 
-- **Google Cloud Platform (GCP)**
-- **Apache Airflow**
-- **Kubernetes**
-- **Docker**
-- **API Integration**
-- **Python**
-- **ETL Processes**
-- **Machine Learning**
-- **Cloud Computing**
-- **Data Engineering**
-- **Data Science**
-- **Data Analytics**
+<div align="center">
+  <h1><img src="assets/Technos.png" width="70%" alt="Technologies"></h1>
+</div>
 
+- **Google Cloud Platform (GCP)**: Used as the primary cloud provider.
+- **Airflow**: Employed for scheduling and orchestrating jobs.
+- **Docker**: Utilized to encapsulate custom Python code into containers.
+- **Kubernetes**: Employed for efficient management of Docker containers, orchestrated by Airflow jobs.
+- **Python**: The primary programming language used for developing our solutions.
+- **Plotly**: Empowered us to create visually interactive graphs.
+- **Scikit-learn**: A robust library used for implementing various Machine Learning algorithms.
+- **GitHub**: The chosen platform for collaborative development and version control of our code.
 ## Author 👤
 
 - 🔗 Feel free to connect with me on <a href="https://www.linkedin.com/in/labrijisaad/">LinkedIn</a>
